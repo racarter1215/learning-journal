@@ -9,9 +9,9 @@ Hi! My name is Robert and I am taking Code 102 with Code Fellows. I plan to take
 
 ##### 1. Remember that _you started this process knowing nothing_ about the subject. Reflect on what you know now.
 
-2. Seek help from others, but _do not rely completely on it_. Trust yourself to learn through application.
+##### 2. Seek help from others, but _do not rely completely on it_. Trust yourself to learn through application.
 
-3. Always seek new challenges. These will _sharpen learned skills_.
+##### 3. Always seek new challenges. These will _sharpen learned skills_.
 
 You can use the [editor on GitHub](https://github.com/racarter1215/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

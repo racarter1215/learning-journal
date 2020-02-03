@@ -2,6 +2,8 @@
 
 ### We made changes
 
+##### Growth Mindset is to understand that you start the process of learning something new by first understanding you do not understand it yet, but will if you persevere. It means seeking help and resources while applying it during individual activities.
+
 You can use the [editor on GitHub](https://github.com/racarter1215/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

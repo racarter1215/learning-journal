@@ -37,7 +37,7 @@ Italics: _Italics_
   * Item 2b
 
 #### Imbed Image:
-![Alt Text](url)
+you make an exclaimation point, bracket the name of the image you want, then follow it with the url in parentheses. ![Alt Text](url)
 
 #### Tables:
 First Header | Second Header

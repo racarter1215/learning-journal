@@ -35,4 +35,8 @@
 
 ### Text Editors and IDEs:
 
-####
+#### Basically, the difference is IDEs are text editors with a variety of other funcitons, such as file manager, debugger, and a compiler. As I am brand new to this discipline, I don't need an IDE yet, nor will I require one unless the job or project demands it.
+
+### The Command Line
+
+

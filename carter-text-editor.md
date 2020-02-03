@@ -43,6 +43,10 @@
 
 #### Opening the terminal on a PC (my type of computer) requires downloading applications that allow you to. For Mac's, you can use the program called "Terminal". Luckily, all prompts and commands are the same between both systems, so learning how to interact with Terminal helps you with PCs, and vice versa.
 
+#### According to the information provided in 201, the shell (the mechanism by which the terminal will execute your commands and how it displays) we will use is bash.
+
+### Basic Navigation:
+
 #### 
 
 

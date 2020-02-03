@@ -59,6 +59,16 @@
 
 ### Paths:
 
+#### Two types: Absolute and Relative. The top of the path structure is the root directory, denoted by a single "/". Absolute paths specify a location (file or directory) in relation to the root directory. Relative paths specify a location (file or directory) in relation to where we currently are in the system and they don't have a slash
+
+#### Path shortcuts:
+
+###### 1. ~ this is a shortcut for home directory
+###### 2. . reference to current directory
+###### 3. .. reference to parent directory
+
+### File Information:
+
 #### 
 
 

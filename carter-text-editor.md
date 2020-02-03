@@ -47,6 +47,17 @@
 
 ### Basic Navigation:
 
+#### Understanding what commands to use in Terminal (or its equivalent) is important. Below is a fraction of the commands one might use:
+
+###### 1.	LS = List
+###### 2.	CD = Change Directory
+###### 3.	CD .. = Go back one directory
+###### 4.	PWD = Path to working directory
+###### 5.	MKDIR = Make Directory
+###### 6. Touch (name of file and type of file) = creates new file
+###### 7. -LA = prints out long list for each file created under the directory you are currently looking at
+
 #### 
+
 
 

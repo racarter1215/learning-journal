@@ -41,6 +41,8 @@
 
 #### In essence, its a system interface completely through text via special codes or prompts. It allows someone to go through the directory of a computer with lots of files very quickly without using the mouse. Generally, it's just a more efficient way of interacting with one's computer. 
 
+#### Opening the terminal on a PC (my type of computer) requires downloading applications that allow you to. For Mac's, you can use the program called "Terminal". Luckily, all prompts and commands are the same between both systems, so learning how to interact with Terminal helps you with PCs, and vice versa.
+
 #### 
 
 

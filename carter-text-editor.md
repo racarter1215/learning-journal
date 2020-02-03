@@ -69,7 +69,9 @@
 
 ### File Information:
 
-#### 
+#### Linux is case sensitive, so be careful on spaces and capitalized letters.
+
+
 
 
 

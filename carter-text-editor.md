@@ -37,6 +37,10 @@
 
 #### Basically, the difference is IDEs are text editors with a variety of other funcitons, such as file manager, debugger, and a compiler. As I am brand new to this discipline, I don't need an IDE yet, nor will I require one unless the job or project demands it.
 
-### The Command Line
+### The Command Line:
+
+#### In essence, its a system interface completely through text via special codes or prompts. It allows someone to go through the directory of a computer with lots of files very quickly without using the mouse. Generally, it's just a more efficient way of interacting with one's computer. 
+
+#### 
 
 

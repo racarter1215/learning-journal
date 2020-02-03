@@ -1,8 +1,8 @@
 # Carter Text Editor
 
-## Notes 2-3-2020
+#### Notes 2-3-2020
 
-### Choosing a text editor:
+## Choosing a text editor:
 
 #### Text Editors come in a variety of types, from free downloads or exclusive content on a particular computer (PC, MAC) to those that cost money via subscription that are available for all platorms. The most important thing to consider when selecting a text editor is the following:
 
@@ -37,7 +37,7 @@
 
 #### Basically, the difference is IDEs are text editors with a variety of other funcitons, such as file manager, debugger, and a compiler. As I am brand new to this discipline, I don't need an IDE yet, nor will I require one unless the job or project demands it.
 
-### The Command Line:
+## The Command Line:
 
 #### In essence, its a system interface completely through text via special codes or prompts. It allows someone to go through the directory of a computer with lots of files very quickly without using the mouse. Generally, it's just a more efficient way of interacting with one's computer. 
 
@@ -45,7 +45,7 @@
 
 #### According to the information provided in 201, the shell (the mechanism by which the terminal will execute your commands and how it displays) we will use is bash.
 
-### Basic Navigation:
+## Basic Navigation:
 
 #### Understanding what commands to use in Terminal (or its equivalent) is important. Below is a fraction of the commands one might use:
 
@@ -56,6 +56,8 @@
 ###### 5.	MKDIR = Make Directory
 ###### 6. Touch (name of file and type of file) = creates new file
 ###### 7. -LA = prints out long list for each file created under the directory you are currently looking at
+
+### Paths:
 
 #### 
 

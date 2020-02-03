@@ -4,14 +4,14 @@
 
 ##### Hi! My name is Robert and I am taking Code 102 with Code Fellows. I plan to take these courses through Code 401 for the purpose of pursuing a career in cybersecurity. I'm glad to meet you all and I hope to see you in future classes. Here's a link to my GitHub profile page if you want to learn more about me: https://github.com/racarter1215
 
-Growth Mindset is to understand that you start the process of learning something new by first concluding that you do not yet understand it, but will if you persevere. It means seeking help and resources while applying it during individual activities. It also means you will fail a lot before you succeed, and that failing is the path to success.
+**Growth Mindset** is to understand that you start the process of learning something new by first concluding that you do not yet understand it, but will if you persevere. It means seeking help and resources while applying it during individual activities. It also means you will fail a lot before you succeed, and that failing is the path to success.
 
 
-Reminder 1.) Remember that you started this process knowing literally nothing about the subject. Reflect on what you know now.
+1. Remember that you started this process knowing literally nothing about the subject. Reflect on what you know now.
 
-Reminder 2.) Seek help from others, but do not rely on it. Trust yourself to learn through application.
+2. Seek help from others, but do not rely on it. Trust yourself to learn through application.
 
-Reminder 3.) Always seek new challenges. These will sharpen learned skills.
+3. Always seek new challenges. These will sharpen learned skills.
 
 You can use the [editor on GitHub](https://github.com/racarter1215/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

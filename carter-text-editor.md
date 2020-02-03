@@ -11,3 +11,10 @@
 ###### 3. Theme variety (for ease of use by the coder)
 ###### 4. Availability of Extentions (to help you when you require additional tools or features, but not enough to warrant a new text editor)
 
+### Proprietary Text Editors:
+
+#### These text editors are either already found on your computer or are availble for use only by the brand you have (Windows, MAC). They generally have what one would require, like Notepad++, but lack the availble extentions that make them lasting choices sometimes.
+
+### Third Party Editors:
+
+####

@@ -15,6 +15,24 @@
 
 #### These text editors are either already found on your computer or are availble for use only by the brand you have (Windows, MAC). They generally have what one would require, like Notepad++, but lack the availble extentions that make them lasting choices sometimes.
 
+#### Such text editors include:
+
+###### 1. Notepad
+###### 2. Text Edit
+
 ### Third Party Editors:
+
+#### These generally require one to spend a one time purchase fee or buy a subscription, but generally have greater levels of access to not on ly the 4 core funcitonalities listed above, but specifically extentions that extend the lifecycle of a text editor. It is up to the code writer if they require the additional (or at least different) capabilities.
+
+#### Such text editors include:
+
+###### 1. Notepad ++
+###### 2. BB Edit
+###### 3. Visual Studio Code
+###### 4. Atom
+###### 5. Brackets
+###### 6. Sublime Text
+
+### Text Editors and IDEs:
 
 ####

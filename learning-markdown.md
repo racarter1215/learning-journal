@@ -35,6 +35,13 @@ Italics: _Italics_
 * Item 2
   * Item 2a
   * Item 2b
+  
+Nested Lists:
+Make a line item with a (1.) or (-) or any other deliniation of a list item. Under it, indent until the next (number, dot, dash, etc.) is under the first bit of text of the last list item. Then make the list item. It should show up on the website as a nested list. Example:
+
+1. First list item
+   - First nested list item
+     - Second nested list item
 
 #### Imbed Image:
 you make an exclaimation point, bracket the name of the image you want, then follow it with the url in parentheses. ![Alt Text](url)
@@ -48,5 +55,7 @@ Content in the first column | Content in the second column
 #### Task List:
 Make a [ ]. To make the task complete, put an "x" inside of it, like so: [x].
 It will look on the webpage like a checked block
+
+#GitHub Site Information
 
 

@@ -28,12 +28,22 @@
 
 ## How to Make a Website
 
-#### First thing to consider is who your target audience is. This should inform all decisions you make moving forward regarding format, content, etc.
+### You need to consider the following:
 
-#### Target audiences include individuals, companies, organizations, etc.
+#### - First thing to consider is who your target audience is. This should inform all decisions you make moving forward regarding format, content, etc.
 
-#### You must also understand WHY people visit your website. Understanding this requires knowing their motivation and goals.
+#### - Target audiences include individuals, companies, organizations, etc.
 
-#### Finally, understand what website visitors are trying to achieve and tailor the website to acommodate it.
+#### - You must also understand WHY people visit your website. Understanding this requires knowing their motivation and goals.
+
+#### - Understand what website visitors are trying to achieve and tailor the website to acommodate it.
+
+#### - What information visitors need
+
+#### - How often people will traffic your site.
+
+## Site Maps
+
+#### Utilizing a wireframe model to create a web page idea is the best practice, as you can "sort" what type of information will go where on an html file
 
 

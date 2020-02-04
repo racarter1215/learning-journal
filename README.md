@@ -6,4 +6,4 @@
 
 ##### 1. <a href="https://racarter1215.github.io/learning-journal/carter-text-editor.md">Text Editor Notes</a>
 
-##### 2. <a href="learning-markdown.md](https://racarter1215.github.io/learning-journal/learning-markdown.md">Markdown Notes</a>
+##### 2. <a href="https://racarter1215.github.io/learning-journal/learning-markdown.md">Markdown Notes</a>

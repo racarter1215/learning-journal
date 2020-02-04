@@ -4,6 +4,6 @@
 
 ## Table of Contents
 
-##### 1. <a href="https://racarter1215.github.io/learning-journal/carter-text-editor.md">Text Editor Notes</a>
+##### 1. [Text Editor Notes](https://racarter1215.github.io/learning-journal/carter-text-editor.md)
 
-##### 2. <a href="https://racarter1215.github.io/learning-journal/learning-markdown.md">Markdown Notes</a>
+##### 2. [Markdown Notes](https://racarter1215.github.io/learning-journal/learning-markdown.md)

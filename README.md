@@ -2,7 +2,9 @@
 
 #### Hi! My name is Robert and I am taking Code 102 with Code Fellows. I plan to take these courses through Code 401 for the purpose of pursuing a career in cybersecurity. I'm glad to meet you all and I hope to see you in future classes. If you want to know more about me, here's a link to my GitHub [profile page](https://github.com/racarter1215). 
 
-##### **Growth Mindset** is to understand that you start the process of learning something new by first concluding that you do not yet understand it, but will if you persevere. It means seeking help and resources while applying it during individual activities. It also means you will fail a lot before you succeed, and that failing is the path to success.
+## Table of Contents
+
+1. ![carter-text-editor.md](https://racarter1215.github.io/learning-journal/carter-text-editor.md)
 
 ###### 1. **Remember that _you started this process knowing nothing_ about the subject. Reflect on what you know now**.
 

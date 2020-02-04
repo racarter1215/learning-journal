@@ -24,4 +24,34 @@
 
 ## Setting up Git Repository
 
-####
+#### Switch to the target project’s directory
+###### Example:
+###### $ cd test (cd = change directory)
+###### Use the git init command
+###### $ git init
+
+###### To start tracking these repository files, perform an initial commit by typing the following:
+###### $ git add *.c
+###### $ git add LICENSE
+###### $ git commit -m “any message here”
+
+## Cloning Repos
+
+#### You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
+
+###### $ git clone https://github.com/test
+
+## Workflow
+
+#### Local Repo Structure is Working Directory (actual files are here), Index (area used for staging), and Head (point of most recent commit)
+
+#### Check file status by tying "git status"
+
+#### track files by single "git add filename" or all "git add *"
+
+#### commit a file by typing "git commit -m 'text describing changes made'
+
+#### commit all changes by typing "git commit -a"
+
+#### push changes by writing "git push origin master"
+

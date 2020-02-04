@@ -9,3 +9,5 @@
 ##### 2. [Markdown Notes](https://racarter1215.github.io/learning-journal/learning-markdown)
 
 ##### 3. [Git Tutorial Notes](https://racarter1215.github.io/learning-journal/git-tutorial)
+
+##### 4. [HTML Basics Notes](https://racarter1215.github.io/learning-journal/structure-web-pages-with-html)

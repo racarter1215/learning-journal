@@ -7,3 +7,5 @@
 ##### 1. [Text Editor Notes](https://racarter1215.github.io/learning-journal/carter-text-editor)
 
 ##### 2. [Markdown Notes](https://racarter1215.github.io/learning-journal/learning-markdown)
+
+##### 3. [Git Tutorial Notes](https://racarter1215.github.io/learning-journal/git-tutorial)

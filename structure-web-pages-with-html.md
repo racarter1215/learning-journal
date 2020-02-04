@@ -46,4 +46,8 @@
 
 #### Utilizing a wireframe model to create a web page idea is the best practice, as you can "sort" what type of information will go where on an html file
 
+#### Another thing to consider is "visual hierarchy". Understand what people will be looking at and when/why. This will help you prioritize information you want the user to access first to places they will look at or interact with first. The longer it takes to find info on a webpage the less likely it is to be found.
 
+## HTML5
+
+#### 

@@ -50,4 +50,14 @@
 
 ## HTML5
 
-#### 
+#### HTML5 improves upon previous html design as it allows web page authors to divide up parts of a page in far more ways than previously possible. 
+
+#### Headers and footers can be used for the whole page or individual articles.
+
+#### Navigation elements contain the major points of interest throughout the website, either on the page itself or on other linked pages. In HTML5, Nav can be linked to almost anything, including terms of use and privacy policies at the bottom of the web page.
+
+#### Articles appear several times through most websites, and sometimes within other articles.
+
+#### Asides, when used in articles, should be related but not essential to the article (quotes, glossary). Outside of an article, it acts as a container for content that is related to entire page, such as a search box or links to other sections.
+
+

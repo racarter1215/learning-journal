@@ -26,4 +26,14 @@
 
 #### [You can view HTML source code at](www.htmlandcssbook.com/view-source/).
 
+## How to Make a Website
+
+#### First thing to consider is who your target audience is. This should inform all decisions you make moving forward regarding format, content, etc.
+
+#### Target audiences include individuals, companies, organizations, etc.
+
+#### You must also understand WHY people visit your website. Understanding this requires knowing their motivation and goals.
+
+#### Finally, understand what website visitors are trying to achieve and tailor the website to acommodate it.
+
 

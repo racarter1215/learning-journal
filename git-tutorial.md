@@ -16,4 +16,12 @@
 
 ## Post-Installation Customization
 
-#### 
+#### You need to ensure you configure your variables using "git config" to ensure your optimal settings and look.
+
+#### You next need to setup your identity by typing "git config --global user.name "Your Name" and git config --global user.email "Your Email"
+
+#### If you need help during this process, type "git help command"
+
+## Setting up Git Repository
+
+####

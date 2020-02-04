@@ -69,7 +69,7 @@
 
 ### File Information:
 
-#### Linux is case sensitive, so be careful on spaces and capitalized letters.
+#### Linux is case sensitive, so be careful on spaces and capitalized letters. White space on code editors can create an error message. It is important that there exists no line space after the last line of text, as this may prevent pushing changes to origin.
 
 
 

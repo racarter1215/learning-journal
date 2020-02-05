@@ -1,4 +1,4 @@
-## Introducing CSS
+# Introducing CSS
 
 #### CSS is designed for you to style HTML text. 
 #### Each part of an html text document is divided into blocks, which can constitute entire paragraphs, headers, and articles, or as little as a word or two within a text box that are to be modified in some way.
@@ -26,6 +26,15 @@
 
 #### You can beat this rule by using general rules above (ex: h1 {}) and more specifics below (ex: h1 header {})
 
-## Color
+# Color
 
-####
+#### Color can be expressed in one of three ways:
+###### RGB Values rgb (100,100,90)
+###### Hex Codes #ee3e80
+###### Color Names DarkCyan
+###### HSLA (new way to do it)
+
+#### You can change background color by writing 
+###### body {
+###### background-color: rgb(200,200,200) ;}
+

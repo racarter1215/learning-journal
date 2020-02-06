@@ -28,3 +28,13 @@
 
 #### ! means logical not. the opertor takes a single Boolean value and inverts it. Example !(2 < 1) would be true
 
+## Loops
+
+#### Loops check a condition. If it returns true, a code block will run. Then the condition will be check again and if it still returns true, the code block will run again. It repeats until the condition returns false. There are three common types of loops:
+###### For. This is for running code a specific number of times. Example: for(var i = 0' i < 10; i++)
+###### While. If you do not know how many times the code should run, you can use a while loop.
+###### Do While. The do...while loop is very similar to while lop, but is different by always run the statements inside the curly braces at least once, even if the ocndition evaluates to false.
+
+## Loop Counters
+
+#### Consists of initialization, condition, and update

@@ -63,3 +63,12 @@
 #### Comparison Operators like "buy = 3 > 5;"
 
 #### Logical Operators like "buy = (5 > 3) && (2 < 4);"
+
+## Functions
+
+#### Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements)
+
+#### we use them for reusability. It creates stability in code if tested properly
+
+#### expect a function to do something or complete a task, specifically one thing very well
+

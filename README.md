@@ -13,3 +13,5 @@
 ##### 4. [HTML Basics Notes](https://racarter1215.github.io/learning-journal/structure-web-pages-with-html)
 
 ##### 5. [Design with CSS Notes](https://racarter1215.github.io/learning-journal/design-with-css)
+
+##### 6. [Dynamaic JavaScript webpages Notes](https://racarter1215.github.io/learning-journal/js-for-webpage)

@@ -17,3 +17,5 @@
 ##### 6. [Dynamaic JavaScript webpages Notes](https://racarter1215.github.io/learning-journal/js-for-webpage)
 
 ##### 7. [Computer Architecture and Logic Notes](https://racarter1215.github.io/learning-journal/computer-architecture-logic)
+
+##### 8. [Programming with JavaScript Functions Notes](https://racarter1215.github.io/learning-journal/programming-with-js-functions)

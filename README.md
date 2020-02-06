@@ -15,3 +15,5 @@
 ##### 5. [Design with CSS Notes](https://racarter1215.github.io/learning-journal/design-with-css)
 
 ##### 6. [Dynamaic JavaScript webpages Notes](https://racarter1215.github.io/learning-journal/js-for-webpage)
+
+##### 7. [Computer Architecture and Logic Notes](https://racarter1215.github.io/learning-journal/computer-architecture-logic)

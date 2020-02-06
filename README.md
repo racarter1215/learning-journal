@@ -19,3 +19,5 @@
 ##### 7. [Computer Architecture and Logic Notes](https://racarter1215.github.io/learning-journal/computer-architecture-logic)
 
 ##### 8. [Programming with JavaScript Functions Notes](https://racarter1215.github.io/learning-journal/programming-with-js-functions)
+
+##### 9. [Operators and Loops Notes](https://racarter1215.github.io/learning-journal/operators-and-loops)

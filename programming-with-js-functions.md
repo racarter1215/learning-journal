@@ -35,3 +35,31 @@
 
 ##### This is called "programmatic" approach to problem solving
 
+## Expressions
+
+#### These evaluate into (or result in) a single value. Generally two types of expressions: those that assign a value to a variable and those that use two or more values to return a single value.
+
+## Operators
+
+#### Expressions need things called operators that allow programmers to create a single value from one or more values.
+ 
+#### Assignment Operators are like "color = 'beige';"
+
+#### Atrithmetic Operators like "area = 3 * 2;"
+
+#### Arithmetic Operator list:
+###### addition +
+###### Subtraction -
+###### division /
+###### multiplication *
+###### increment ++
+###### Decrement --
+###### modulus %
+
+#### String Operators like "greeting = 'Hi' + 'Molly';"
+
+#### Only string operator is the + sign
+
+#### Comparison Operators like "buy = 3 > 5;"
+
+#### Logical Operators like "buy = (5 > 3) && (2 < 4);"
